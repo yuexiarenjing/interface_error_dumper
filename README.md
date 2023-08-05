@@ -40,4 +40,4 @@ python run_normal.py
 python run_fault.py /root/workload/astar/astar
 ```
 
-The experiments results will be dump to normal_traces and fault_traces directories.
+The experiments results will be dumped to normal_traces and fault_traces directories.
