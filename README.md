@@ -10,7 +10,7 @@ Python 3.8
 
 code mutation tool: [GitHub - yuexiarenjing/code_mutation_tool: This is a code mutation based fault injection tool for C/C++ programs.](https://github.com/yuexiarenjing/code_mutation_tool) Note: configure $PATH for the 12 fault injector.
 
-# Userage` `example
+# Userage example
 
 Configre the following files for the target program (the example files were given for SPECint 2006:astar).
 
